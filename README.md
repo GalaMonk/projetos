@@ -9,5 +9,5 @@ Caso você tenha chego até aqui e queira saber mais sobre algum dos projetos, m
 - Img2Ascii - Transforma qualquer imagem em ASCII
 - T2I - Tudo que você digita, vira uma imagem
 - ChatBot V1 e V2 - Font e Backend de um site de chatbot (parecido com ChatVolt)
- -SudokuV - Verificador de sudoku
+- SudokuV - Verificador de sudoku
 
